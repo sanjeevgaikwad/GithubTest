@@ -1,0 +1,6 @@
+/*FIRST PROGRAMME*/
+#include<stdio.h>
+main()
+{
+	printf("Hello........");
+}
